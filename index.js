@@ -14,18 +14,8 @@ function promptUser() {
       },
       {
         type: "input",
-        name: "location",
-        message: "Where are you from?"
-      },
-      {
-        type: "input",
-        name: "hobby",
-        message: "What is your favorite hobby?"
-      },
-      {
-        type: "input",
-        name: "food",
-        message: "What is your favorite food?"
+        name: "project",
+        message: "What is the name of your project?"
       },
       {
         type: "input",
